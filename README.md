@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 
 ## 📄 Certifications
 
-- 일반기계기사 (2023.06)  
-- 컴퓨터활용능력 2급 (2024.12)  
-- TOEIC Speaking IM3 (2023.11)
+- 기사
 
 ---
 
