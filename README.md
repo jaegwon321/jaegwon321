@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat_square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat_square&logo=c&logoColor=white)
 
 ### 🤖 Robotics & OS
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat_square&logo=ros&logoColor=white)
