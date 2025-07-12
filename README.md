@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧩 Profile
-
-- 👩‍🎓 **이름**
-  - ㅁ
-- 🎓 **학력**
-  - ㅁ
-- 🧪 **교육 이수**  
-  - Rokey Bootcamp 수료 (2025.01 ~ 2025.07)
-    
----
 
 ## 🛠 Tech Stack(수정하세요)
 
@@ -46,6 +36,13 @@ Here are some ideas to get you started:
   <strong>2025.05.23 ~ 2025.06.05 </strong> - DrawBot <a href="https://github.com/Rokey-3-D-2/dr_writer">🖌 </a> <br>
   <strong>2025.05.16 ~ 2025.05.22 </strong> - CODA(Collection of Data for Accidents) <a href="https://github.com/Rokey-3-D-autonomous/coda">👮‍♂️ </a> <br>
 </p>
+
+## 🎒 Activities
+| 활동명 | 기간 | 설명 |
+|--------|------|------|
+| **ㅇㅇㅇ1** | 2000.00 ~ 2000.00 | • 교육 |
+| **ㄹㄹㄹ2** | 2000.00 ~ 2024.12 | • ㅇㅇ1<br>• ㅇㅇ2 |
+| **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스 주관 부트캠프 수료<br>• 로보틱스 프로젝트 수행 |
 
 ## 📄 Certifications
 
