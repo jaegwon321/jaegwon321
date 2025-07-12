@@ -54,6 +54,50 @@ Here are some ideas to get you started:
 
 ---
 
+## 🧠 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat_square&logo=c%2B%2B&logoColor=white)
+
+### 🤖 Robotics & OS
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat_square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=linux&logoColor=black)
+![Gazebo](https://img.shields.io/badge/Gazebo-2C528C?style=flat_square&logo=gazebo&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat_square&logo=ros&logoColor=white)
+![URDF](https://img.shields.io/badge/URDF-8B0000?style=flat_square&logo=ros&logoColor=white)
+![MoveIt](https://img.shields.io/badge/MoveIt-48A9A6?style=flat_square&logo=ros&logoColor=white)
+
+### 🛠️ Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat_square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat_square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat_square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat_square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat_square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=flat_square&logo=yolov5&logoColor=white)
+![Realsense SDK](https://img.shields.io/badge/Realsense-0071C5?style=flat_square&logo=intel&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-1E1E1E?style=flat_square&logo=openai&logoColor=white)
+![TTS/STT](https://img.shields.io/badge/TTS/STT-00C853?style=flat_square&logo=speech-recognition&logoColor=white)
+
+### 🔧 Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat_square&logo=raspberry%20pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat_square&logo=arduino&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat_square&logo=anaconda&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat_square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat_square&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-FF5733?style=flat_square&logo=python&logoColor=white)
+![FSM Design](https://img.shields.io/badge/FSM-6A1B9A?style=flat_square&logo=protocols&logoColor=white)
+
+
+
 ## 📁 Projects(수정하세요)
 
 ### <p align="center">📁 Projects 📁</p>
