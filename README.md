@@ -45,10 +45,11 @@ Here are some ideas to get you started:
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat_square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat_square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=flat_square&logo=yolov5&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-FF1493?style=flat_square&logo=yolov5&logoColor=white)
 ![Realsense SDK](https://img.shields.io/badge/Realsense-0071C5?style=flat_square&logo=intel&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-1E1E1E?style=flat_square&logo=openai&logoColor=white)
 ![TTS/STT](https://img.shields.io/badge/TTS/STT-00C853?style=flat_square&logo=speech-recognition&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-795548?style=flat_square&logo=openai&logoColor=white)
 
 ### 🔧 Hardware & IoT
 ![Doosan Robotics M0609](https://img.shields.io/badge/M0609-005BAC?style=flat_square&logo=doosan&logoColor=white)
@@ -84,6 +85,10 @@ Here are some ideas to get you started:
 - 🎨 [**DrawBot** – User-Driven Drawing Replication Using a Robot Arm](https://github.com/Rokey-3-D-2/dr_writer)  
   _사용자의 그림 입력을 받아 로봇팔이 실시간으로 추종하여 그리는 인터랙티브 드로잉 시스템 개발_  
   _기간: 2025.05.23 ~ 2025.06.05_
+
+- 🛒 [**Convenience Store Assistant** – 음성 기반 편의점 어시스턴트 로봇 시스템](#)  
+  _STT → LLM → TTS 기반 음성 인터페이스와 YOLO + D435i 비전 인식, M0609 로봇 제어를 통합한 자율 담배 수거 및 운반 로봇 구현_  
+  _기간: 2025.06.09 ~ 2025.07.20_
 
 
 ## 📁 Projects(수정하세요)
