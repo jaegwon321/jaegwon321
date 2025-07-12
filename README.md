@@ -36,6 +36,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
 </p>
 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 ### 🧰 Tools
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat_square&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
