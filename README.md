@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=flat_square&logo=ros&logoColor=white)
 ![URDF](https://img.shields.io/badge/URDF-8B0000?style=flat_square&logo=ros&logoColor=white)
 ![MoveIt](https://img.shields.io/badge/MoveIt-48A9A6?style=flat_square&logo=ros&logoColor=white)
-![TurtleBot3](https://img.shields.io/badge/TurtleBot3-5DADEC?style=flat_square&logo=github&logoColor=white)
-![TurtleBot4](https://img.shields.io/badge/TurtleBot4-0D47A1?style=flat_square&logo=github&logoColor=white)
+![TurtleBot](https://img.shields.io/badge/TurtleBot-5DADEC?style=flat_square&logo=github&logoColor=white)
 ![TF2](https://img.shields.io/badge/TF2-6D4C41?style=flat_square&logo=transform&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Navigation--2-4CAF50?style=flat_square&logo=compass&logoColor=white)
 ![SLAM Toolbox](https://img.shields.io/badge/SLAM--Toolbox-3F51B5?style=flat_square&logo=mapbox&logoColor=white)
@@ -61,6 +60,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat_square&logo=Mathworks&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FEDB00?style=flat_square&logo=ni&logoColor=black)
+![CAD](https://img.shields.io/badge/CAD-0D47A1?style=flat_square&logo=autodesk&logoColor=white)
 
 - **Robotics Platforms**:
   - Doosan M0609 (사용자/이미지의 입력을 로봇이 화이트 보드에 출력)
