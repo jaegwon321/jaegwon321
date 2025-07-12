@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠 Tech Stack(수정하세요)
 
 ## 🧠 Tech Stack
 ### 💻 Programming Languages
