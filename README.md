@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## 🧩 Profile
 
 - 👩‍🎓 **이름**
-  - 
+  - ㅇ
 - 🎓 **학력**
-  - 
+  - ㅇ
 - 🧪 **교육 이수**  
   - Rokey Bootcamp 수료 (2025.01 ~ 2025.07)
     
