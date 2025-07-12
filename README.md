@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 - 🎨 [**DrawBot** – User-Driven Drawing Replication Using a Robot Arm](https://github.com/Rokey-3-D-2/dr_writer)  
   _사용자의 그림 입력을 받아 로봇팔이 실시간으로 추종하여 그리는 인터랙티브 드로잉 시스템 개발_  
-  _기간: 2025.05.30 ~ 2025.06.05_
+  _기간: 2025.05.23 ~ 2025.06.05_
 
 
 ## 📁 Projects(수정하세요)
