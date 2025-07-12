@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 ## 🧠 Tech Stack
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
+#### <p align="center">[Robot]</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
+</p>
+![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ### 🛠️ Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat_square&logo=scikitlearn&logoColor=white)
@@ -30,7 +37,6 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat_square&logo=ros&logoColor=white)
 ### 🔧 Hardware & IoT
-
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
