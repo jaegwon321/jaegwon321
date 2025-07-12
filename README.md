@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-FF1493?style=flat_square&logo=yolov5&logoColor=white)
 ![Realsense SDK](https://img.shields.io/badge/Realsense-0071C5?style=flat_square&logo=intel&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-1E1E1E?style=flat_square&logo=openai&logoColor=white)
-![TTS/STT](https://img.shields.io/badge/TTS/STT-00C853?style=flat_square&logo=speech-recognition&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-795548?style=flat_square&logo=openai&logoColor=white)
 
 ### 🔧 Hardware & IoT
 ![Doosan Robotics M0609](https://img.shields.io/badge/M0609-005BAC?style=flat_square&logo=doosan&logoColor=white)
@@ -64,8 +61,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
-![tkinter](https://img.shields.io/badge/tkinter-FF5733?style=flat_square&logo=python&logoColor=white)
-![FSM Design](https://img.shields.io/badge/FSM-6A1B9A?style=flat_square&logo=protocols&logoColor=white)
 
 - **Robotics Platforms**:
   - Doosan M0609 (사용자/이미지의 입력을 로봇이 화이트 보드에 출력)
