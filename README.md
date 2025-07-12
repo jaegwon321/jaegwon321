@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat_square&logo=ros&logoColor=white)
 ### 🔧 Hardware & IoT
-<p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-</p>
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
