@@ -86,18 +86,18 @@ Here are some ideas to get you started:
 ## 🎒 Activities
 | 활동명 | 기간 | 설명 |
 |--------|------|------|
-| **MATLAB Fundamentals** | 2021. 01. | • MATLAB의 테크니컬 컴퓨팅 환경하에서 데이터 생성, 분석, 시각화 및 프로그래밍 방법 수강 |
-| **Simulink for System and Algorithm Modeling** | 2021. 01. | • 기본적인 동적 시스템 모델링 기법과 Simulink 블록 다이어그램 개발을 위한 도구(tool) 사용 방법 수강 |
+| **MATLAB Fundamentals** | 2021.01 | • MATLAB의 테크니컬 컴퓨팅 환경하에서 데이터 생성, 분석, 시각화 및 프로그래밍 방법 수강 |
+| **Simulink for System and Algorithm Modeling** | 2021.01 | • 기본적인 동적 시스템 모델링 기법과 Simulink 블록 다이어그램 개발을 위한 도구(tool) 사용 방법 수강 |
 | **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스 주관 부트캠프 수료<br>• 로보틱스 프로젝트 수행 |
 
 ## 📄 Certifications
 
-- 전기기사 (2021. 08.)
-- 전기공사기사 (2022. 06.)
-- MOS Powerpoint 2010 (2017. 04.)
-- MOS Excel 2010 (2017. 06.)
-- 기술사업화전문코디네이터 (2022. 07.)
-- TOEIC Speaking IM3 (2024. 11.)
+- 전기기사 (2021.08)
+- 전기공사기사 (2022.06)
+- MOS Powerpoint 2010 (2017.04)
+- MOS Excel 2010 (2017.06)
+- 기술사업화전문코디네이터 (2022.07)
+- TOEIC Speaking IM3 (2024.11)
 
 ---
 
