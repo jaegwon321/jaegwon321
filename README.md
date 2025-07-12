@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 ## 🧠 Tech Stack
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
-#### <p align="center">[Robot]</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
-</p>
+### 💻 Robot
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ### 🛠️ Frameworks & Libraries
