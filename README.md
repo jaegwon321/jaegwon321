@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=flat_square&logo=ros&logoColor=white)
 ![URDF](https://img.shields.io/badge/URDF-8B0000?style=flat_square&logo=ros&logoColor=white)
 ![MoveIt](https://img.shields.io/badge/MoveIt-48A9A6?style=flat_square&logo=ros&logoColor=white)
+![TurtleBot3](https://img.shields.io/badge/TurtleBot3-5DADEC?style=flat_square&logo=github&logoColor=white)
+![TurtleBot4](https://img.shields.io/badge/TurtleBot4-0D47A1?style=flat_square&logo=github&logoColor=white)
+![TF2](https://img.shields.io/badge/TF2-6D4C41?style=flat_square&logo=transform&logoColor=white)
+![Nav2](https://img.shields.io/badge/Navigation--2-4CAF50?style=flat_square&logo=compass&logoColor=white)
+![SLAM Toolbox](https://img.shields.io/badge/SLAM--Toolbox-3F51B5?style=flat_square&logo=mapbox&logoColor=white)
+
 
 ### 🛠️ Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
@@ -45,6 +51,7 @@ Here are some ideas to get you started:
 ![TTS/STT](https://img.shields.io/badge/TTS/STT-00C853?style=flat_square&logo=speech-recognition&logoColor=white)
 
 ### 🔧 Hardware & IoT
+![Doosan Robotics M0609](https://img.shields.io/badge/M0609-005BAC?style=flat_square&logo=doosan&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat_square&logo=raspberry%20pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat_square&logo=arduino&logoColor=white)
 
@@ -59,7 +66,10 @@ Here are some ideas to get you started:
 ![tkinter](https://img.shields.io/badge/tkinter-FF5733?style=flat_square&logo=python&logoColor=white)
 ![FSM Design](https://img.shields.io/badge/FSM-6A1B9A?style=flat_square&logo=protocols&logoColor=white)
 
-
+- **Robotics Platforms**:
+  - Doosan M0609 (ROS 연동 제어 및 협동로봇 응용 실습 경험)
+  - TurtleBot3을 이용한 라인 감지 기반 자율주행 (OpenCV + HSV 기반 Lane Detection)
+  - TurtleBot4를 활용한 SLAM, TF 변환을 통한 카메라 위치 정렬 및 Nav2 기반 자율주행 구현
 
 ## 📁 Projects(수정하세요)
 
