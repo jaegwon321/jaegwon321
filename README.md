@@ -18,43 +18,6 @@ Here are some ideas to get you started:
 
 
 ## 🧠 Tech Stack
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
-### 💻 Robot
-![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-### 🛠️ Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat_square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat_square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat_square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat_square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat_square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat_square&logo=ros&logoColor=white)
-### 🔧 Hardware & IoT
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🧰 Tools
-![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat_square&logo=anaconda&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat_square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat_square&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=linux&logoColor=black)
-
-
-- **Languages**: Python, C++
-- **Robotics**: ROS 2 Humble, tf2, MoveIt, URDF, RViz, Gazebo
-- **Vision / AI**: OpenCV, YOLOv8, Realsense SDK, Whisper, TTS/STT
-- **Other Tools**: Git, Docker, Ubuntu, tkinter, FSM design
-
----
-
-## 🧠 Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
