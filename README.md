@@ -71,6 +71,21 @@ Here are some ideas to get you started:
   - TurtleBot3을 이용한 라인 감지 기반 자율주행 (OpenCV + HSV 기반 Lane Detection)
   - TurtleBot4를 활용한 SLAM, TF 변환을 통한 카메라 위치 정렬 및 Nav2 기반 자율주행 구현
 
+## 📜 Projects
+
+- 🤖 [**ArtGuard** – 자율 로봇 기반 미술품 상태 점검 시스템](https://github.com/Rokey-3-D-2/rokey_pjt)  
+  _자율주행 로봇을 활용해 미술품 상태를 정기적으로 점검하고 이미지로 기록하는 시스템 구현_  
+  _기간: 2025.05.09 ~ 2025.05.15_
+
+- 🚓 [**CODA** – 교통사고 현장 보존 로봇 시스템](https://github.com/Rokey-3-D-autonomous/coda)  
+  _사고 현장을 자율로 이동해 정지하고, 2대의 로봇이 각각 사건 감지 및 현장 보존을 수행하는 시스템 구현_  
+  _기간: 2025.05.16 ~ 2025.05.22_
+
+- 🎨 [**DrawBot** – User-Driven Drawing Replication Using a Robot Arm](https://github.com/Rokey-3-D-2/dr_writer)  
+  _사용자의 그림 입력을 받아 로봇팔이 실시간으로 추종하여 그리는 인터랙티브 드로잉 시스템 개발_  
+  _기간: 2025.05.30 ~ 2025.06.05_
+
+
 ## 📁 Projects(수정하세요)
 
 ### <p align="center">📁 Projects 📁</p>
