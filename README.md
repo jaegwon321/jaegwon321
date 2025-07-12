@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 ![FSM Design](https://img.shields.io/badge/FSM-6A1B9A?style=flat_square&logo=protocols&logoColor=white)
 
 - **Robotics Platforms**:
-  - Doosan M0609 (ROS 연동 제어 및 협동로봇 응용 실습 경험)
+  - Doosan M0609 (사용자/이미지의 입력을 로봇이 화이트 보드에 출력)
+  - Doosan M0609 (YOLO + D435i 비전 기반 물체 집기 및 바코드 위치 정렬 제어)
   - TurtleBot3을 이용한 라인 감지 기반 자율주행 (OpenCV + HSV 기반 Lane Detection)
   - TurtleBot4를 활용한 SLAM, TF 변환을 통한 카메라 위치 정렬 및 Nav2 기반 자율주행 구현
 
