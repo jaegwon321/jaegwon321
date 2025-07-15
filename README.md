@@ -89,33 +89,22 @@ Here are some ideas to get you started:
   _기간: 2025.06.09 ~ 2025.07.20_
 
 
-## 📁 Projects(수정하세요)
-
-### <p align="center">📁 Projects 📁</p>
-
-#### <p align="center">[Doosan Rokey Boot Camp 3기]</p>
-<p align="center">
-  <strong>2025.06.23 ~ 2025.07.04 </strong> - 협동2 <a href=""> </a> <br>
-  <strong>2025.06.09 ~ 2025.06.20 </strong> - 협동1 <a href=""> </a> <br>
-  <strong>2025.05.23 ~ 2025.06.05 </strong> - DrawBot <a href="https://github.com/Rokey-3-D-2/dr_writer">🖌 </a> <br>
-  <strong>2025.05.16 ~ 2025.05.22 </strong> - CODA(Collection of Data for Accidents) <a href="https://github.com/Rokey-3-D-autonomous/coda">👮‍♂️ </a> <br>
-</p>
 
 ## 🎒 Activities
 | 활동명 | 기간 | 설명 |
 |--------|------|------|
 | **MATLAB Fundamentals** | 2021.01 | • MATLAB의 테크니컬 컴퓨팅 환경하에서 데이터 생성, 분석, 시각화 및 프로그래밍 방법 수강 |
 | **Simulink for System and Algorithm Modeling** | 2021.01 | • 기본적인 동적 시스템 모델링 기법과 Simulink 블록 다이어그램 개발을 위한 도구(tool) 사용 방법 수강 |
-| **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스 주관 부트캠프 수료<br>• 로보틱스 프로젝트 수행 |
+| **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스 주관 부트캠프 수료<br>• 로보틱스 관련 프로젝트 5회 수행<br>• 최종 성적 A |
 
 ## 📄 Certifications
 
-- 전기기사 (2021.08)
-- 전기공사기사 (2022.06)
-- MOS Powerpoint 2010 (2017.04)
-- MOS Excel 2010 (2017.06)
-- 기술사업화전문코디네이터 (2022.07)
-- TOEIC Speaking IM3 (2024.11)
+- 전기기사 (2021. 08)
+- 전기공사기사 (2022. 06)
+- MOS Powerpoint 2010 (2017. 04)
+- MOS Excel 2010 (2017. 06)
+- 기술사업화전문코디네이터 (2022. 07)
+- TOEIC Speaking IM3 (2024. 11)
 
 ---
 
