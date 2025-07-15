@@ -55,7 +55,47 @@ Here are some ideas to get you started:
 ### 🧰 Tools & Platforms
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat_square&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat_square&logo=jupyter&logoColor=whit행 |
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat_square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat_square&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat_square&logo=Mathworks&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FEDB00?style=flat_square&logo=ni&logoColor=black)
+![CAD](https://img.shields.io/badge/CAD-0D47A1?style=flat_square&logo=autodesk&logoColor=white)
+
+- **Robotics Platforms**:
+  - Doosan M0609 (사용자/이미지의 입력을 로봇이 화이트 보드에 출력)
+  - Doosan M0609 (YOLO + D435i 비전 기반 물체 집기 및 바코드 위치 정렬 제어)
+  - TurtleBot3을 이용한 라인 감지 기반 자율주행 (OpenCV + HSV 기반 Lane Detection)
+  - TurtleBot4를 활용한 SLAM, TF 변환을 통한 카메라 위치 정렬 및 Nav2 기반 자율주행 구현
+
+## 📜 Projects
+
+- 🤖 [**ArtGuard** – 자율 로봇 기반 미술품 상태 점검 시스템](https://github.com/Rokey-3-D-2/rokey_pjt)  
+  _자율주행 로봇을 활용해 미술품 상태를 정기적으로 점검하고 이미지로 기록하는 시스템 구현_  
+  _기간: 2025.05.09 ~ 2025.05.15_
+
+- 🚓 [**CODA** – 교통사고 현장 보존 로봇 시스템](https://github.com/Rokey-3-D-autonomous/coda)  
+  _사고 현장을 자율로 이동해 정지하고, 2대의 로봇이 각각 사건 감지 및 현장 보존을 수행하는 시스템 구현_  
+  _기간: 2025.05.16 ~ 2025.05.22_
+
+- 🎨 [**DrawBot** – User-Driven Drawing Replication Using a Robot Arm](https://github.com/Rokey-3-D-2/dr_writer)  
+  _사용자의 그림 입력을 받아 로봇팔이 실시간으로 추종하여 그리는 인터랙티브 드로잉 시스템 개발_  
+  _기간: 2025.05.23 ~ 2025.06.05_
+
+- 🛒 [**Convenience Store Assistant** – 음성 기반 편의점 어시스턴트 로봇 시스템](#)  
+  _STT → LLM → TTS 기반 음성 인터페이스와 YOLO + D435i 비전 인식, M0609 로봇 제어를 통합한 자율 담배 수거 및 운반 로봇 구현_  
+  _기간: 2025.06.09 ~ 2025.07.20_
+
+
+
+## 🎒 Activities
+| 활동명 | 기간 | 설명 |
+|--------|------|------|
+| **MATLAB Fundamentals** | 2021.01 | • MATLAB의 테크니컬 컴퓨팅 환경하에서 데이터 생성, 분석, 시각화 및 프로그래밍 방법 수강 |
+| **Simulink for System and Algorithm Modeling** | 2021.01 | • 기본적인 동적 시스템 모델링 기법과 Simulink 블록 다이어그램 개발을 위한 도구(tool) 사용 방법 수강 |
+| **IOT 전문가 양성 프로그램** | 2021.04 ~ 2021. 05 | • 아두이노 활용 프로젝트 수행 |
 | **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스 주관 부트캠프 수료<br>• 로보틱스 관련 프로젝트 5회 수행<br>• 최종 성적 A |
 
 ## 📄 Certifications
