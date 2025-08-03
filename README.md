@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
  - 🚨 [**Lane Detection with Turtlebot3** - 터틀봇3 활용용 실시간 차선 추종 시스템](https://github.com/rhrnak999/Auto_race_Tb3)  
   _터틀봇3와 ROS 2 기반의 차선 인식(lane detect) 및 커브 주행 최적화 자율주행 시스템 개발_
-  _기간: 2025.06.23 ~ 2025.07.4_
+  _기간: 2025.06.23 ~ 2025.07.04_
 
 
 ## 🎒 Activities
